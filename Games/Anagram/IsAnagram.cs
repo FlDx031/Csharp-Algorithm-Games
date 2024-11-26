@@ -51,7 +51,7 @@ class Program
         IsAnagram("Listen", "Silent");          // Yes, they're anagrams!
         IsAnagram("The eyes", "They see");      // Yes, they're anagrams!
         IsAnagram("Hello", "World");            // No, they're not anagrams
-        IsAnagram("abc", "aabbcc");             // No, they're not anagrams
+        IsAnagram("abc", "aabbcc");             // No, they're definitely not !!
 
     }
 
