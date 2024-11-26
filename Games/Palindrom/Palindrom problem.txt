@@ -1,0 +1,8 @@
+Write a function that checks if a given string is a palindrome.
+
+A palindrome is a word, phrase, or sequence that reads the same backward as forward (ignoring spaces, punctuation, and capitalization).
+
+Ex: "madam", "racecar", "A man, a plan, a canal: Panama".
+
+- Ignore case sensitivity, spaces, and special characters.
+- Return a boolean (true or false) indicating whether the input string is a palindrome.
