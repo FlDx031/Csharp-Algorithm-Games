@@ -4,7 +4,7 @@ Ex: "Hello" and "holle"
 
 Write a program to check if two strings are anagrams of each other.
 
-RUles: 
+RULES: 
 
 1) The strings are considered anagrams if:
 	They have the same characters in the same frequency, ignoring the order.
