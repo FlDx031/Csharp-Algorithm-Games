@@ -1,41 +1,37 @@
-# 🎮 CODING GAMES FOR DEVELOPERS
-Bienvenue dans ma collection de mini-jeux de programmation en **C#** conçus pour les développeurs juniors ! 🕹️
+# 🎮 CODING GAMES FOR YOUNG DEVELOPERS
+Welcome to my collection of **C#** programming mini-games designed for junior people. ! 🕹️
 
 ---
 
 ## 📖 À PROPOS DU PROJET
-Ces 10 jeux couvrent une variété de concepts clés en algorithmie, programmation orientée objet, et manipulation de structures de données.  
-**Chaque jeu est conçu pour :**  
-- 🎯 TESTER VOS COMPÉTENCES EN RÉSOLUTION DE PROBLÈMES.  
-- 💡 APPRENDRE DES CONCEPTS CLÉS COMME LES ARBRES BINAIRES, LA RECHERCHE BINAIRE, ET PLUS ENCORE.  
-- 🚀 PROGRESSER TOUT EN PRENANT PLAISIR À CODER.
+These 10 games cover a variety of key concepts in algorithmics and data structure manipulation to prepare you for technical interview by having some fun.
+
+**Each game is created with the purpose to help you to:**  
+- 🎯 Test your problem solving skills.  
+- 💡 Learn key concepts such as Binary Research, hashpmap and others.  
+- 🚀 Progress by having some fun.
 
 ---
 
-## 🕹️ LISTE DES JEUX
-1. 🧩 **ANAGRAM** : TROUVEZ SI DEUX MOTS SONT DES ANAGRAMMES.  
-2. 🔄 **CUSTOMIZED SORTING** : CLASSEZ DES OBJETS SELON DES RÈGLES PERSONNALISÉES.  
-3. 🔢 **FIZZBUZZ** : RÉSOLVEZ CE CLASSIQUE DES ENTRETIENS !  
-4. 🎲 **GUESSING GAME** : DEVINEZ LE NOMBRE SECRET AVEC UN MAXIMUM D'ESSAIS.  
-5. 🔁 **PALINDROME** : VÉRIFIEZ SI UNE CHAÎNE DE CARACTÈRES EST UN PALINDROME.  
-6. 🛠️ **PASSWORD GENERATOR** : CRÉEZ DES MOTS DE PASSE SÉCURISÉS DE MANIÈRE ALÉATOIRE.  
-7. ❌⭕ **TIC-TAC-TOE** : JOUEZ À CE JEU CLASSIQUE CONTRE L'ORDINATEUR.  
-8. 📊 **WORD FREQUENCY COUNTER** : COMPTEZ LA FRÉQUENCE DES MOTS DANS UNE PHRASE.  
-9. 🌳 **BINARY TREE PATH FINDER** : CONSTRUISEZ UN ARBRE BINAIRE ET TROUVEZ DES CHEMINS.  
-10. 🧭 **MINIMALIST LABYRINTH** : RÉSOLVEZ UN LABYRINTHE DE MANIÈRE ALGORITHMIQUE.
+## 🕹️ Game List
+1. 🧩 **ANAGRAM** : Find out if two words are anagrams.  
+2. 🔄 **CUSTOMIZED SORTING** : Sorting objects regardind some specific rules.  
+3. 🔢 **FIZZBUZZ** : Classic Game !!  
+4. 🎲 **GUESSING GAME** : Guess the number within k trials.
+5. 🔁 **PALINDROME** : Check whether a string is a palindrome.  
+6. 🛠️ **PASSWORD GENERATOR** : Creat a password and check ir's strong enough.  
+7. ❌⭕ **TIC-TAC-TOE** : Classic Game !!
+8. 📊 **WORD FREQUENCY COUNTER** : Count the number of word in a sentence.  
+9. 🌳 **BINARY TREE PATH FINDER** : Creat a binary tree !  
+10. 🧭 **MINIMALIST LABYRINTH** : Try to find the way out from the maze !
 
 ---
 
-## 🛠️ Technologies utilisées
-- Langage : C#
+## 🛠️ Technology used
+- Programming language : C#
 - Framework : .NET Core
 
-## 🏆 Objectifs du projet
-- Développer des compétences clés en algorithmie.
-- Proposer des exercices adaptés aux entretiens techniques.
-- Créer une ressource éducative amusante pour la communauté.
-
-## 🤝 Contribuer
-Les contributions sont les bienvenues ! Si vous avez une idée de jeu ou une amélioration, créez une issue ou soumettez une pull request.
+## 🤝 Contribute
+Contributions are welcome! If you have a game idea or an improvement, create an issue or submit a pull request.
 
 ENJOY !! 🚀😀
