@@ -1,0 +1,6 @@
+Write a program that generates a random number between 1 and 100.
+
+- The player has to guess the number by entering guesses.
+- After each guess, the program should tell the player whether the guess was too high, too low, or correct.
+- The program should continue asking for guesses until the player guesses correctly.
+Once the player guesses the number, the program should tell them how many attempts it took to guess the correct number.
