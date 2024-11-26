@@ -1,0 +1,16 @@
+An anagram is a word or phrase formed by rearranging the letters of another word or phrase, typically using all the original letters exactly once.
+
+Ex: "Hello" and "holle"
+
+Write a program to check if two strings are anagrams of each other.
+
+RUles: 
+
+1) The strings are considered anagrams if:
+	They have the same characters in the same frequency, ignoring the order.
+	Case sensitivity and spaces are ignored. For example:
+	- "Listen" and "Silent" are anagrams.
+	- "The eyes" and "They see" are anagrams.
+
+2) If the strings are anagrams, print "Yes, they are anagrams!".
+3) If not, print "No, they are not anagrams.".
