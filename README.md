@@ -3,7 +3,7 @@ Welcome to my collection of **C#** programming mini-games designed for junior pe
 
 ---
 
-## 📖 À PROPOS DU PROJET
+## 📖 About the project
 These 10 games cover a variety of key concepts in algorithmics and data structure manipulation to prepare you for technical interview by having some fun.
 
 **Each game is created with the purpose to help you to:**  
