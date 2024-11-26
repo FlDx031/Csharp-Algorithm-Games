@@ -19,7 +19,7 @@ These 10 games cover a variety of key concepts in algorithmics and data structur
 3. 🔢 **FIZZBUZZ** : Classic Game !!  
 4. 🎲 **GUESSING GAME** : Guess the number within k trials.
 5. 🔁 **PALINDROME** : Check whether a string is a palindrome.  
-6. 🛠️ **PASSWORD GENERATOR** : Creat a password and check ir's strong enough.  
+6. 🛠️ **PASSWORD GENERATOR** : Creat a password and check if it's strong enough.  
 7. ❌⭕ **TIC-TAC-TOE** : Classic Game !!
 8. 📊 **WORD FREQUENCY COUNTER** : Count the number of word in a sentence.  
 9. 🌳 **BINARY TREE PATH FINDER** : Creat a binary tree !  
