@@ -15,7 +15,7 @@ These 10 games cover a variety of key concepts in algorithmics and data structur
 
 ## 🕹️ Game List
 1. 🧩 **ANAGRAM** : Find out if two words are anagrams.  
-2. 🔄 **CUSTOMIZED SORTING** : Sorting objects regardind some specific rules.  
+2. 🔄 **CUSTOMIZED SORTING** : Sorting objects regarding some specific rules.  
 3. 🔢 **FIZZBUZZ** : Classic Game !!  
 4. 🎲 **GUESSING GAME** : Guess the number within k trials.
 5. 🔁 **PALINDROME** : Check whether a string is a palindrome.  
