@@ -1,0 +1,9 @@
+Hello and welcome, 
+
+Let me explain the structure of this game.
+
+For each file, you have a .txt file with instructions and a .cs file with the solution. 
+
+It's important to know that there's no single way to solve the problem. Do your best to optimize complexity. If you think there's a better way of solving the problem, try it! 
+
+Good luck!
