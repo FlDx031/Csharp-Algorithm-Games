@@ -1,0 +1,4 @@
+1) Write a program that takes a paragraph of text as input from the user.
+2) Count how many times each word appears in the text.
+3) Ignore case (e.g., "word" and "Word" should be treated as the same).
+4) Display the frequency of each word in a clear, formatted manner.
