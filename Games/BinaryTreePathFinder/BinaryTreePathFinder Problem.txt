@@ -1,0 +1,19 @@
+Write a function that finds all paths from the root to the leaves of a binary tree. Each path should be represented as a list of values, starting from the root and ending at a leaf. The output should be a collection of all such paths.
+
+For a given tree : 
+
+        1
+       / \
+      2   3
+     / \   \
+    4   5   6
+
+The paths are:
+
+[1, 2, 4]
+[1, 2, 5]
+[1, 3, 6]
+
+The outpout should be: 
+
+[[1, 2, 4], [1, 2, 5], [1, 3, 6]]

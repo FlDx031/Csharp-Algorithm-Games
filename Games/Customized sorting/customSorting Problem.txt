@@ -1,0 +1,18 @@
+Write a program that sorts a list of strings based on a custom order provided by the user.
+For example, if the custom order is "cba", then strings starting with "c" should come first, followed by "b", and finally "a". Any strings that do not start with these letters should appear at the end, in alphabetical order.
+
+Requirements:
+
+The user provides:
+
+- A custom order as a string (e.g., "cba").
+- A list of words to sort (e.g., ["apple", "banana", "cherry", "avocado", "blueberry"]).
+
+The program sorts the list of words according to the custom order.
+Words that don't match the custom order are sorted alphabetically and placed at the end.
+
+Example:
+
+Custom Order: "cba"
+Input List: ["apple", "banana", "cherry", "avocado", "blueberry"]
+Output List: ["cherry", "banana", "blueberry", "apple", "avocado"]
