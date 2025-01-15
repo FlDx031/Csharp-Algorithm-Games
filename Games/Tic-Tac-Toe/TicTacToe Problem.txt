@@ -1,0 +1,41 @@
+Objective: Create a simple Tic-Tac-Toe game in C# that allows two players to play against each other. The program should track the board state, allow players to take turns, and determine when there is a winner or a draw.
+
+Requirements:
+
+1) Implement a 3x3 game board.
+2) Allow two players (Player X and Player O) to take turns placing their marks on the board.
+3) Ensure a valid move:
+	- Players can only mark an empty cell.
+	- Players cannot overwrite each other’s moves.
+4) Check for a winner:
+	- A player wins if they have 3 marks in a row (horizontally, vertically, or diagonally).
+5) Declare a draw if the board is full and there is no winner.
+6) Print the game board after each turn.
+
+Example GamePlay: 
+
+Welcome to Tic-Tac-Toe!
+  1 | 2 | 3
+ -----------
+  4 | 5 | 6
+ -----------
+  7 | 8 | 9
+
+Player X's turn. Enter a position (1-9):
+5
+  1 | 2 | 3
+ -----------
+  4 | X | 6
+ -----------
+  7 | 8 | 9
+
+Player O's turn. Enter a position (1-9):
+3
+  1 | 2 | O
+ -----------
+  4 | X | 6
+ -----------
+  7 | 8 | 9
+
+…
+Player X wins!
