@@ -8,7 +8,7 @@ These 10 games cover a variety of key concepts in algorithmics and data structur
 
 **Each game is created with the purpose to help you to:**  
 - 🎯 Test your problem solving skills.  
-- 💡 Learn key concepts such as Binary Research, hashpmap and others.  
+- 💡 Learn key concepts such as Binary Research, hashmap and others.  
 - 🚀 Progress by having some fun.
 
 ---
